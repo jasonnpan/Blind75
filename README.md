@@ -1,4 +1,4 @@
-<h3>blind75 solns</h3>
+<h3>Blind75 solns</h3>
 
 practicing leetcode using python :)
 
